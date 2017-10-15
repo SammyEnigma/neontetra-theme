@@ -8,6 +8,7 @@
   <style name="SearchScope" foreground="#c5c8c6"/>
   <style name="Parentheses" foreground="#fe9300" background="#2d2f33"/>
   <style name="ParenthesesMismatch" underlineColor="#fd9200" underlineStyle="WaveUnderline"/>
+  <style name="AutoComplete" foreground="#fe9300" background="#2d2f33"/>
   <style name="CurrentLine" foreground="#c5c8c6" background="#212326"/>
   <style name="CurrentLineNumber" foreground="#fd9200" bold="true"/>
   <style name="Occurrences" foreground="#c5c8c6" background="#fd9200"/>
@@ -17,6 +18,7 @@
   <style name="String" foreground="#fc9100" background="#1e1000"/>
   <style name="Type" foreground="#4cd6fe"/>
   <style name="Local"/>
+  <style name="Global" foreground="#ce5c00"/>
   <style name="Field"/>
   <style name="Static" foreground="#fc9100"/>
   <style name="VirtualMethod" foreground="#fe6697" italic="true"/>
@@ -57,4 +59,6 @@
   <style name="WarningContext" underlineColor="#fa8f00" underlineStyle="DotLine"/>
   <style name="Error" underlineColor="#fd6696" underlineStyle="SingleUnderline"/>
   <style name="ErrorContext" underlineColor="#fd6696" underlineStyle="DotLine"/>
+  <style name="Declaration" foreground="#000000" background="#ffffff" bold="true"/>
+  <style name="OutputArgument" foreground="#000000" background="#ffffff" italic="true"/>
 </style-scheme>
